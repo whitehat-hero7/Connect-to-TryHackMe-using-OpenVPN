@@ -10,7 +10,7 @@ Download your `OpenVPN (OVPN)` Configuration File from your `TryHackMe` account.
 
 **OpenVPN (Advanced) ➡️ Download**, as shown below.
 
-![image](https://github.com/user-attachments/assets/8ed64f54-72f1-4ccc-87d7-1bf1ae5d2a6b)
+![image](https://github.com/user-attachments/assets/a8876257-c4da-4e74-b075-6b3b6cb1da42)
 
 This will download a `.ovpn` file (e.g., `username.ovpn`).
 
